@@ -359,3 +359,8 @@ body {
 	width: 23%;
 	margin-bottom: 1%;
 }
+
+.conteudoPrincipal-cursos-link:nth-child(4n) {
+	margin-right: 0;
+
+}
