@@ -300,8 +300,6 @@ body {
 }
 
 
-/* FLEXBOX */
-
 .cabecalhoPrincipal .container {
 	display: flex;
 	align-items: center;
@@ -311,8 +309,6 @@ body {
 .cabecalhoPrincipal-nav {
 	display: flex;
 }
-
-/* RODAPÉ */
 
 .rodapePrincipal-patrocinadores .container {
 	display: flex;
@@ -339,8 +335,6 @@ body {
 .rodapePrincipal-contatoForm-fieldset {
 	display: flex;
 }
-
-/* Mapa dos Cursos */
 
 .rodapePrincipal-navMap-list {
 	display: flex;
